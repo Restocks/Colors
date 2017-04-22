@@ -1,0 +1,20 @@
+[
+  { "hex": "#ff3c41", "name": "Red" },
+  { "hex": "#7f181b", "name": "Burgundy" },
+  { "hex": "#faa918", "name": "Orange" },
+  { "hex": "#ffc715", "name": "Yellow" },
+  { "hex": "#8ee000", "name": "Green" },
+  { "hex": "#007ee5", "name": "Blue" },
+  { "hex": "#003666", "name": "Navy" },
+  { "hex": "#a560e8", "name": "Purple" },
+  { "hex": "#f7c8c9", "name": "Pink" },
+  { "hex": "#4c4c4c", "name": "Black" },
+  { "hex": "#9ba5a8", "name": "Gray" },
+  { "hex": "#ffffff", "name": "White" },
+  { "hex": "#f0f0f0", "name": "Silver" },
+  { "hex": "#a99260", "name": "Gold" },
+  { "hex": "#865200", "name": "Brown" },
+  { "hex": "#f7e8d5", "name": "Tan/Beige" },
+  { "hex": "#f2f0ed", "name": "Off White" },
+  { "hex": "#ea4c89", "name": "Multicolor" }
+]
