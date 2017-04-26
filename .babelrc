@@ -1,7 +1,11 @@
 {
-  "presets": ["es2015"],
-  "plugins": [
-    ["inline-json-import"]
-  ]
+"presets": ["es2015"],
+"env": {
+    "development": {
+      "plugins": ["inline-json-import"]
+    },
+    "production": {
+      "plugins": []
+    }
+  }
 }
-
